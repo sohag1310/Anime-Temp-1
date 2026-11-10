@@ -1,0 +1,6 @@
+{
+  "name": "ToonPlay - Watch Anime & Cartoons Online Free",
+  "description": "Discover and watch anime and cartoons online with ToonPlay. Browse classic and modern animated series, enjoy fast streaming, multi-language audio (Hindi, Tamil, Telugu, English, Japanese), and a clean catalog experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
